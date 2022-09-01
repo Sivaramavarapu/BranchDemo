@@ -1,0 +1,3 @@
+Git is a version control system
+Git is also known as source code management,it is 
+also called as distributed version control system
